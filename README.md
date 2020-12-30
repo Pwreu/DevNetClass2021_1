@@ -1,3 +1,7 @@
+#Globomantics CRM spp
+Still under development!!
+2nd upload!!
+
 # Module 3: Working with Structured Data and Local Version Control
 This contains the files for the CRM application with the relevant updates
 made in this module. Note that these files are also used for
@@ -5,3 +9,6 @@ made in this module. Note that these files are also used for
 variants of the US dollars display are retained in the code, but commented
 out. This makes it easy to toggle between different styles for version
 control testing.
+
+> Note : Version 3 will be better.
+
